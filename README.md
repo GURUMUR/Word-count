@@ -44,8 +44,9 @@ with open(fname,'r') as f:
     print("Number of words: ",num_words)
 ```
 ### OUTPUT:
-![out1](word_count(1).png)
-![out2](word_count(2).png)
+![word_count(1)](https://github.com/GURUMUR/Word-count/assets/144895197/20528dbf-b2cc-4efb-824a-837d846984d2)
+![word_count(2)](https://github.com/GURUMUR/Word-count/assets/144895197/92698047-a131-452b-ade9-9d392f7b1f16)
+
 
 ## RESULT:
 Thus the program is written to find the word count from a text.
